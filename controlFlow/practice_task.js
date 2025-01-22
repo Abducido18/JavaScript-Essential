@@ -15,3 +15,5 @@ switch(userType) {
         authorization = 'You need to be an enrolled member or subscriber to access Dietary Services';
         break;
 }
+
+console.log(authorization);
